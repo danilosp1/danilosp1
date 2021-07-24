@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   - Instagram: https://www.instagram.com/dan.sp1/
   - LinkedIn: https://www.linkedin.com/in/danilo-da-silva-pinto-5632b11aa/
 - 😄 Pronouns: He/his
-
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosp1&show_icons=true&theme=blueberry)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosp1&layout=compact&langs_count=7&theme=blueberry)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=danilosp1&show_icons=true&theme=blueberry" height="169px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosp1&layout=compact&langs_count=7&theme=blueberry" height="169px" />
+</div>
