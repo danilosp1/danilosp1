@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   - LinkedIn: https://www.linkedin.com/in/danilo-da-silva-pinto-5632b11aa/
 - 😄 Pronouns: He/his
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=danilosp1&show_icons=true&theme=blueberry" height="169px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosp1&layout=compact&langs_count=7&theme=blueberry" height="169px" />
+<img src="https://github-readme-stats.vercel.app/api?username=danilosp1&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true" height="169px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" height="169px" />
 </div>
