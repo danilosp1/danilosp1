@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   - E-mail: danilo.sp03@gmail.com
   - Instagram: https://www.instagram.com/dan.sp1/
   - LinkedIn: https://www.linkedin.com/in/danilo-da-silva-pinto-5632b11aa/
+  - Site: https://danilosilvaportfolio.netlify.app/
 - 😄 Pronouns: He/his
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=danilosp1&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true" height="169px"/>
