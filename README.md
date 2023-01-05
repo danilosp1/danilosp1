@@ -27,6 +27,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" height="169px" />
 </div>
 
-
-
 ![Snake animation](https://github.com/danilosp1/danilosp1/blob/output/github-contribution-grid-snake.svg)
+
+## Tecnologias
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</div>
