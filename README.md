@@ -23,8 +23,8 @@
 ## Informações de repositório
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=danilosp1&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true" height="169px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" height="169px" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danilosp1&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true" height="169px"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" height="169px" />
 </div>
 
 ![Snake animation](https://github.com/danilosp1/danilosp1/blob/output/github-contribution-grid-snake.svg)
