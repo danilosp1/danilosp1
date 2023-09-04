@@ -27,7 +27,10 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" height="169px" />
 </div>
 
-![Snake animation](https://github.com/danilosp1/danilosp1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## Tecnologias
 
