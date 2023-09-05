@@ -1,4 +1,4 @@
-### Olá, me chamo Danilo. Tenho 19 anos e sou apaixonado por técnologia; Já atuei no desenvolvimento de sistemas, web, mobile e games, realizando em projetos freelancer, grupos de extensão da faculdade, empresa Junior e por gosto pessoal.
+### Olá, me chamo Danilo. Tenho 20 anos e sou apaixonado por técnologia; Já atuei no desenvolvimento de sistemas, web, mobile e games, realizando em projetos freelancer, grupos de extensão da faculdade, empresa Junior e por gosto pessoal.
 
 <!--
 **danilosp1/danilosp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
