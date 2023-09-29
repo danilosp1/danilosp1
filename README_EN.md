@@ -28,7 +28,7 @@
 
 <table>
   <th>
-      <div>----------------------------------------------------------- General Content -----------------------------------------------------------</div>
+      <div>-------------------------------------------------- General Content --------------------------------------------------</div>
   </th>
   <tr>
     <td>
@@ -64,13 +64,13 @@
         <summary><strong>📅 Repository Information</strong></summary>
         <br />
         <div align="center">
-          <img height="143em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danilosp1&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true"/>
-          <img height="143em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" />
-          <img height="143em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilosp1&theme=blueberry"/>
+          <img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danilosp1&show_icons=true&include_all_commits=true&theme=blueberry&hide_border=true"/>
+          <img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilosp1&layout=compact&theme=blueberry&hide_border=true" />
+          <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilosp1&theme=blueberry"/>
         </div>
         <div align="center">
-          <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilosp1&theme=blueberry"/>
-          <img height="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=danilosp1&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" />
+          <img height="130em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilosp1&theme=blueberry"/>
+          <img height="130em" src="http://github-readme-streak-stats.herokuapp.com/?user=danilosp1&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" />
         </div>
         <br />
       </details>
