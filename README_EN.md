@@ -39,7 +39,7 @@
       
   - 🌐 [Website](https://danilosilvaportfolio.netlify.app/)
       
-  - 📄 [Resume](https://drive.google.com/file/d/1qEb14DkSWG1w_9HxJbOQDec6ts5OZuy9/view?usp=sharing)
+  - 📄 [Resume](https://drive.google.com/file/d/1uORqtumER7WImL0xCEp5BIZxWTYaxoD2/view?usp=sharing)
       
   - 💻 Experience in C++, Java, and React Js
       </details>
