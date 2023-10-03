@@ -26,9 +26,9 @@
 
 <br />
 
-<table>
+<table align="center">
   <th>
-      <div>----------------------------------------------------------- Conteúdo Geral -----------------------------------------------------------</div>
+      <div align="center">Conteúdo Geral</div>
   </th>
   <tr>
     <td>
