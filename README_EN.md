@@ -17,9 +17,9 @@
 <div align="justify">
   <p>
     
-  >I'm 20 years old, a computer science student, and I've always been dedicated to learning new technologies out of interest in development and science. Currently, I am a front-end developer at Cati Jr., and I am constantly working on personal and collaborative projects, from Python automations to React systems.
+  >I'm 21 years old, a computer science student, and I've always been dedicated to learning new technologies out of interest in development and science. I as a software developer at Cati Jr., and I am constantly working on personal and collaborative projects, from Python automations to React systems.
   >
-  >At the moment, I am studying back-end frameworks and expanding my knowledge in the field of information security.
+  >At the moment, I am studying and working in private projects.
   
   </p>
 </div>
