@@ -17,9 +17,9 @@
 <div align="justify">
   <p>
     
-  >Tenho 20 anos, sou estudante de computação e sempre me dediquei a conhecer tecnologias novas por interesse em desenvolvimento e ciência. Atualmente sou desenvolvedor front end da empresa Junior Cati Jr.,       além de desenvolver constantemente projetos pessoais e coletivos, desde automações em python, até sistemas em React.
+  >Tenho 21 anos, sou estudante de computação e sempre me dediquei a conhecer tecnologias novas por interesse em desenvolvimento e ciência. Atuei como desenvolvedor front end da empresa Junior Cati Jr., além de desenvolver constantemente projetos pessoais e coletivos, desde automações em python, até sistemas em React.
   >
-  >No momento, estou estudando frameworks back end e ampliando meus conhecimentos na área de segurança da informação.
+  >No momento, estou estudando e atuando como desenvolvedor em projetos privados.
   
   </p>
 </div>
